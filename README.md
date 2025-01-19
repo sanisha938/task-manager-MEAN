@@ -1,6 +1,6 @@
 # Task Manager App  
 
-![Application Design Illustration](App_Illustration.jpeg)  
+![Application Design Illustration](App_Illustration1.jpeg)  
 
 This repository contains the **Task Manager Application**, built using the **MEAN Stack** (**M**ongoDB, **E**xpress.js, **A**ngular, **N**ode.js). It enables users to manage tasks effectively with features like task creation, updating, deletion, and secure user authentication.  
 
